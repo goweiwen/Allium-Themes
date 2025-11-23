@@ -10,39 +10,38 @@
       "path": "Nunito.ttf",
       "size": 36
     },
-    "text_color": "#ffffff",
+    "text_color": "#e0f8d0",
     "text_stroke_color": "#00000000",
-    "background_color": "#000000",
-    "highlight_color": "#7287fd",
-    "highlight_text_color": "#ffffff",
+    "background_color": "#081820",
+    "highlight_color": "#346856FF",
+    "highlight_text_color": "#e0f8d0",
     "highlight_text_stroke_color": "#00000000",
-    "disabled_color": "#585b70",
+    "disabled_color": "#346856FF",
     "tab_font_size": 1.0,
-    "tab_color": "#ffffff70",
+    "tab_color": "#346856FF",
     "tab_stroke_color": "#00000000",
-    "tab_selected_color": "#ffffff",
+    "tab_selected_color": "#e0f8d0",
     "tab_selected_stroke_color": "#00000000",
     "stroke_width": 0
   },
   "status_bar": {
-    "show_battery_level": false,
+    "show_battery_level": true,
     "show_clock": true,
-    "show_wifi": false,
     "font_size": 1.0,
-    "text_color": "#ffffff",
+    "text_color": "#e0f8d0",
     "text_stroke_color": "#00000000"
   },
   "button_hints": {
     "button_hint_font_size": 0.9,
     "button_size": 1.0,
     "button_text_font_size": 0.75,
-    "button_a_color": "#eb1a1d",
-    "button_b_color": "#fece15",
-    "button_x_color": "#0749b4",
-    "button_y_color": "#008d45",
+    "button_a_color": "#9a2257",
+    "button_b_color": "#9a2257",
+    "button_x_color": "#9a2257",
+    "button_y_color": "#9a2257",
     "button_bg_color": "#585b70",
-    "button_text_color": "#ffffff",
-    "text_color": "#ffffff"
+    "button_text_color": "#e0f8d0",
+    "text_color": "#e0f8d0"
   },
   "recents": {
     "use_recents_carousel": false
@@ -51,7 +50,7 @@
     "boxart_width": 250
   },
   "menu": {
-    "background_color": "#000000",
+    "background_color": "#081820",
     "guide_font": {
       "path": "Nunito.ttf",
       "size": 28
