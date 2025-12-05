@@ -1,0 +1,59 @@
+{
+  "wallpaper": null,
+  "ui": {
+    "margin_x": 10,
+    "margin_y": 8,
+    "list_margin": 5,
+    "padding_x": 12,
+    "padding_y": 5,
+    "ui_font": {
+      "path": "Nunito.ttf",
+      "size": 38
+    },
+    "text_color": "#839390",
+    "text_stroke_color": "#00000000",
+    "background_color": "#bfd3ba",
+    "highlight_color": "#fcd7dd",
+    "highlight_text_color": "#fefefe",
+    "highlight_text_stroke_color": "#00000000",
+    "disabled_color": "#c2a3a5",
+    "tab_font_size": 1.0,
+    "tab_color": "#839390",
+    "tab_stroke_color": "#00000000",
+    "tab_selected_color": "#fefefe",
+    "tab_selected_stroke_color": "#00000000",
+    "stroke_width": 0
+  },
+  "status_bar": {
+    "show_battery_level": false,
+    "show_clock": true,
+    "font_size": 0.95,
+    "text_color": "#fefefe",
+    "text_stroke_color": "#00000000"
+  },
+  "button_hints": {
+    "button_hint_font_size": 0.95,
+    "button_size": 0.95,
+    "button_text_font_size": 0.8,
+    "button_a_color": "#ffd5e5",
+    "button_b_color": "#fffecf",
+    "button_x_color": "#d4f8ff",
+    "button_y_color": "#cbffe3",
+    "button_bg_color": "#585b70",
+    "button_text_color": "#000000",
+    "text_color": "#fefefe"
+  },
+  "recents": {
+    "use_recents_carousel": true
+  },
+  "games": {
+    "boxart_width": 250
+  },
+  "menu": {
+    "background_color": "#000000",
+    "guide_font": {
+      "path": "Nunito.ttf",
+      "size": 30
+    }
+  }
+}
