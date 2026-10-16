@@ -7,8 +7,8 @@
     "padding_x": 12,
     "padding_y": 4,
     "ui_font": {
-      "path": "Nunito.ttf",
-      "size": 32
+      "path": "CascadiaCode.ttf",
+      "size": 27
     },
     "text_color": "#ebdbb2",
     "text_stroke_color": "#00000000",
@@ -17,10 +17,10 @@
     "highlight_text_color": "#ebdbb2",
     "highlight_text_stroke_color": "#00000000",
     "disabled_color": "#928374",
-    "tab_font_size": 1.0,
+    "tab_font_size": 1.15,
     "tab_color": "#7c6f64",
     "tab_stroke_color": "#00000000",
-    "tab_selected_color": "#d5c4a1",
+    "tab_selected_color": "#bdae93",
     "tab_selected_stroke_color": "#00000000",
     "tabs_backdrop_color": "#00000000",
     "stroke_width": 0,
@@ -30,10 +30,10 @@
     "show_battery_level": true,
     "show_clock": true,
     "show_wifi": true,
-    "font_size": 0.8,
+    "font_size": 0.85,
     "text_color": "#ebdbb2",
     "text_stroke_color": "#00000000",
-    "status_backdrop_color": "#00000000",
+    "status_backdrop_color": "#3c3836cc",
     "hide_status_in_launcher": false
   },
   "button_hints": {
